@@ -33,7 +33,7 @@ JavaScript, TypeScript, C#, SQL
 React, Next.js, Tailwind CSS, HTML, CSS
 
 **Backend**  
-Node.js, Express, REST APIs, Authentication
+Node.js, Express, REST APIs, Authentication, Asp .Net
 
 **Database**  
 SQL Server
@@ -81,8 +81,8 @@ Role-based operations, data lifecycle management, validations.
 ## Contact
 
 Email: sudipbhanja5g@gmail.com  
-LinkedIn: https://www.linkedin.com/in/  
-Portfolio: (add link)
+LinkedIn: www.linkedin.com/in/sudip-bhanja123 
+Portfolio: (https://portfoliosudip.vercel.app/)
 
 ---
 
